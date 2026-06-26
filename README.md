@@ -1,1 +1,1 @@
-# daily-dsa-java
+# daily-dsa-solutions
