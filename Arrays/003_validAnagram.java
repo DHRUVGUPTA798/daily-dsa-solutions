@@ -1,4 +1,4 @@
-/*
+/* Day 3
  * Problem: Valid Anagram
  * Platform: LeetCode
  * Topic: String, HashMap
