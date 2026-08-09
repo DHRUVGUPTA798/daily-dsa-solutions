@@ -1,4 +1,4 @@
-/*
+/* Day 1 
  * Problem: Two Sum
  * Platform: LeetCode
  * Topic: Arrays, HashMap
