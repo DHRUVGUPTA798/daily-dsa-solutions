@@ -10,7 +10,7 @@
  * Date: 06-08-2026
  */
 
-public class MaximumSubarray {
+class Solution {
 
     public static int maxSubArray(int[] nums) {
         int maxSum = nums[0];
