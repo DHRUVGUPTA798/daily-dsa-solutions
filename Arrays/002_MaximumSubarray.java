@@ -1,4 +1,4 @@
-/*
+/* Day 2
  * Problem: Maximum Subarray
  * Platform: LeetCode
  * Topic: Arrays, Kadane's Algorithm
