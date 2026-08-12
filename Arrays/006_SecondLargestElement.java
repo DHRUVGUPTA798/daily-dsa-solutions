@@ -1,4 +1,12 @@
-public class SecondLargestElement {
+/*
+ * Problem: Second Largest Element
+ * Platform: LeetCode
+ * Topic: Array
+ * Difficulty: Eas
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+class Solution {
     public static int secondLargest(int[] arr) {
         int largest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;
