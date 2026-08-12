@@ -1,5 +1,5 @@
 /*
- * Day 5
+ * Day:5
  * Problem: Best Time to Buy and Sell Stock
  * Platform: LeetCode
  * Topic: Array, Greedy
